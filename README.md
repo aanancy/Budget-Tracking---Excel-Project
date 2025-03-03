@@ -1,5 +1,4 @@
-# Excel-Project
-**Budget Tracking - Excel Project**
+# Budget Tracking - Excel Project
 
 ## Overview
 This project is an Excel-based budget tracking tool designed to help users analyze their income, expenses, and savings. It provides a clear breakdown of financial data using formulas and visualizations to enhance understanding and decision-making.
