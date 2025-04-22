@@ -25,9 +25,10 @@ This tool presents personal finance data through clean, interactive visualizatio
 
 ---
 
-#### ⚙️ Key Features
-
 ![Budget Dashboard Screenshot](https://github.com/user-attachments/assets/109961bc-4511-4f26-b503-9a04c8569a89)
+
+---
+#### ⚙️ Key Features
 
 ##### 💸 Income Breakdown – *Waterfall Chart*
 - Visualizes income flow after deductions and bonuses
