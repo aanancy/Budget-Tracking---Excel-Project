@@ -58,16 +58,27 @@ This tool presents personal finance data through clean, interactive visualizatio
 ---
 
 
-## 💬 Contribution & Feedback
+## 🛠 Tools & Techniques Used
 
-Have an idea or suggestion?  
-Feel free to **fork the repo**, open an **issue**, or create a **pull request** to contribute or share your feedback!
+- **Microsoft Excel** – Used for data cleaning, analysis, and dashboard creation.
+- **Excel Formulas** – Applied formulas for dynamic calculations, including % of Income Spent, % of Total Saving, Net Expenses, and Net Income.
+- **Data Visualization** – Created with Waterfall Chart, Funnel Chart, and Donut Chart to present insights visually.
+
+---
+
+## 📘 How to Use
+
+1. Browse the repository to find the desired Excel tool.
+2. Download the spreadsheet and open it in **Microsoft Excel** or **Google Sheets**.
+3. Explore the dashboards, adjust filters, and interact with visualizations.
 
 ---
 
-## 🚀 Stay Tuned
+## 🤝 Contribution
 
-More Excel-based tools and dashboards are on the way—  
-**Follow** the repo to stay updated!
+Have suggestions or ideas for improvement?  
+Feel free to **fork the repo**, submit pull requests, or share feedback to help build more powerful Excel tools! 🚀
 
 ---
+
+🔹 **Stay tuned — more Excel-based solutions and dashboards coming soon!**
