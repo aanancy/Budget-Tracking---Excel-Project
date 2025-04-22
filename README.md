@@ -1,49 +1,69 @@
-📊 Excel Portfolio Projects
-Welcome to my Excel Portfolio Projects repository! This portfolio showcases Excel-based tools designed for personal finance management and distribution visualization, featuring interactive dashboards and meaningful insights powered by Excel formulas, pivot tables, and visuals.
+# 📊 Excel Portfolio Projects
 
-🧭 Purpose
-This repository serves as a central hub for my Excel projects, demonstrating my skills in data analysis, data visualization, and dashboarding. It also supports ongoing updates, collaboration, and sharing of best practices.
+Welcome to my **Excel Portfolio Projects** repository!  
+This portfolio features **Excel-based tools** developed for **personal finance management** and **data visualization**, with interactive dashboards and meaningful insights built using **Excel formulas**, **pivot tables**, and **charts**.
 
-📁 Projects Included
-1️⃣ Budget Tracker – Excel Project
-🎯 Overview
-A simple yet effective budget tracker to help individuals manage their income, expenses, and savings. The dashboard uses clean visuals to make personal finances easy to understand and track.
+---
 
-⚙️ Key Features
-![image](https://github.com/user-attachments/assets/109961bc-4511-4f26-b503-9a04c8569a89)
+## 🧭 Purpose
 
-💸 Income Breakdown – Waterfall Chart
+This repository serves as a centralized space for my Excel projects, where I:
 
-Visualizes changes in income after deductions and bonuses.
+- Demonstrate skills in **data analysis**, **data visualization**, and **dashboard design**
+- Share practical tools for managing finances and analyzing real-world datasets
+- Maintain and update tools for ongoing learning and collaboration
 
-Tracks income inflows and outflows (e.g., taxes, insurance).
+---
 
-📊 Expenses Breakdown – Funnel Chart
+## 📁 Projects Included
 
-Displays expense categories from highest to lowest.
+### 🔹 1. Budget Tracker – Excel Project
 
-Highlights major spending areas like rent, food, and transport.
+#### 🎯 Overview  
+A simple yet powerful **budget tracker** designed to help users effectively manage their **income**, **expenses**, and **savings**.  
+This tool presents personal finance data through clean, interactive visualizations.
 
-🍩 Income Spent vs. Saved – Donut Chart
+---
 
-Shows the percentage of income spent vs. saved.
+#### ⚙️ Key Features
 
-Presents an at-a-glance breakdown of financial health.
+![Budget Dashboard Screenshot](https://github.com/user-attachments/assets/109961bc-4511-4f26-b503-9a04c8569a89)
 
-📌 Summary Metrics
-Key financial indicators included in the dashboard:
+##### 💸 Income Breakdown – *Waterfall Chart*
+- Visualizes income flow after deductions and bonuses
+- Tracks net income changes (e.g., tax, insurance, etc.)
 
-🧾 Net Profit
+##### 📊 Expenses Breakdown – *Funnel Chart*
+- Displays expense categories from highest to lowest
+- Highlights key spending areas like rent, food, transport
 
-📉 % of Income Spent
+##### 🍩 Income Spent vs. Saved – *Donut Chart*
+- Shows the percentage of income spent vs. saved
+- Provides an instant overview of financial health
 
-💰 % of Total Saving
+---
 
-💳 Net Expenses
+### 📌 Summary Metrics
 
+| Metric               | Description                                     |
+|----------------------|-------------------------------------------------|
+| 🧾 **Net Profit**     | Remaining balance after expenses                |
+| 📉 **% of Income Spent** | Percentage of total income used for expenses |
+| 💰 **% of Total Saving** | Share of income successfully saved           |
+| 💳 **Net Expenses**   | Total amount spent                              |
 
-💬 Contribution & Feedback
-Feel free to fork the repo, suggest improvements, or share ideas for future tools!
+---
 
-🚀 Stay Tuned
-More Excel-based projects and dashboards coming soon!
+## 💬 Contribution & Feedback
+
+Have an idea or suggestion?  
+Feel free to **fork the repo**, open an **issue**, or create a **pull request** to contribute or share your feedback!
+
+---
+
+## 🚀 Stay Tuned
+
+More Excel-based tools and dashboards are on the way—  
+**Follow** the repo to stay updated!
+
+---
