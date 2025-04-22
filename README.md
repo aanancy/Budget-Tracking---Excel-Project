@@ -17,7 +17,7 @@ This repository serves as a centralized space for my Excel projects, where I:
 
 ## 📁 Projects Included
 
-### 🔹 1. Budget Tracker – Excel Project
+### 🔹 Budget Tracker – Excel Project
 
 #### 🎯 Overview  
 A simple yet powerful **budget tracker** designed to help users effectively manage their **income**, **expenses**, and **savings**.  
