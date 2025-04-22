@@ -81,4 +81,5 @@ Feel free to **fork the repo**, submit pull requests, or share feedback to help 
 
 ---
 
-🔹 **Stay tuned — more Excel-based solutions and dashboards coming soon!**
+🔹 **Stay tuned — more Excel projects, dashboards, and advanced challenge sets coming soon!**  
+Made with 💙 by **Anansha Kc**
