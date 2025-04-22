@@ -70,7 +70,6 @@ This tool presents personal finance data through clean, interactive visualizatio
 
 1. Browse the repository to find the desired Excel tool.
 2. Download the spreadsheet and open it in **Microsoft Excel** or **Google Sheets**.
-3. Explore the dashboards, adjust filters, and interact with visualizations.
 
 ---
 
