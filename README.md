@@ -49,11 +49,11 @@ This tool presents personal finance data through clean, interactive visualizatio
 ### 📌 Summary Metrics
 
 | Metric                   | Description                                                                 |
-|--------------------------|-----------------------------------------------------------------------------|
-| 🧾 **Total Expenses**     | Sum of all outgoing costs including: Loan, Food, DayCare, School, Travel, Rent, Pet, Clothes |
-| 💳 **Net Income**         | Final income after all deductions: Salary, Tax (20%), Medical, Dental, Super, Bonus |
-| 📉 **% of Income Spent**  | Percentage of total income used for expenses                               |
-| 💰 **% of Total Saving**  | Share of income successfully saved                                          |
+|------------------------------|-----------------------------------------------------------------------------|
+| 🧾 **Total Expenses**       | Sum of all outgoing costs including: Loan, Food, DayCare, School, Travel, Rent, Pet, Clothes |
+| 💳 **Net Income**           | Final income after all deductions: Salary, Tax (20%), Medical, Dental, Super, Bonus |
+| 📉 **% of Income Spent**    | Percentage of total income used for expenses                               |
+| 💰 **% of Total Saving**    | Share of income successfully saved                                          |
 
 ---
 
