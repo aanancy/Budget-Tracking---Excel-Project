@@ -45,14 +45,15 @@ This tool presents personal finance data through clean, interactive visualizatio
 
 ### 📌 Summary Metrics
 
-| Metric               | Description                                     |
-|----------------------|-------------------------------------------------|
-| 🧾 **Net Profit**     | Remaining balance after expenses                |
-| 📉 **% of Income Spent** | Percentage of total income used for expenses |
-| 💰 **% of Total Saving** | Share of income successfully saved           |
-| 💳 **Net Expenses**   | Total amount spent                              |
+| Metric                   | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| 🧾 **Total Expenses**     | Sum of all outgoing costs including:<br>• Loan<br>• Food<br>• DayCare<br>• School<br>• Travel<br>• Rent<br>• Pet<br>• Clothes |
+| 💳 **Net Income**         | Final income after all deductions:<br>• Salary<br>• Tax (20%)<br>• Medical<br>• Dental<br>• Super<br>• Bonus |
+| 📉 **% of Income Spent**  | Percentage of total income used for expenses                               |
+| 💰 **% of Total Saving**  | Share of income successfully saved  
 
 ---
+![image](https://github.com/user-attachments/assets/86b82f41-d059-4163-a02b-1ee2d54bce78)
 
 ## 💬 Contribution & Feedback
 
