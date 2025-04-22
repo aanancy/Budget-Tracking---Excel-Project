@@ -1,4 +1,4 @@
-# 📊 Excel Portfolio Projects
+# 📊 Excel  Budget Tracking Portfolio 
 
 Welcome to my **Excel Portfolio Projects** repository!  
 This portfolio features **Excel-based tools** developed for **personal finance management** and **data visualization**, with interactive dashboards and meaningful insights built using **Excel formulas**, **pivot tables**, and **charts**.
